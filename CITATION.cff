@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mak"
+  given-names: "Yeu Wen"
+  orcid: "https://orcid.org/0000-0001-8419-441X"
+title: "Discovering Hidden Structures in Stock Market Data using Algorithmic Generative Modeling"
+version: 0.1
+doi: 10.17605/OSF.IO/659ED
+date-released: 2023-10-20
+url: "https://github.com/algoplexity/High-Order-Stocks-Dependencies"
